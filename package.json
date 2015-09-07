@@ -1,0 +1,32 @@
+{
+  "name": "reduxing",
+  "version": "0.0.1",
+  "description": "Playground redux application.",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceoaliongroo/reduxing.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "playground",
+    "sandbox"
+  ],
+  "author": "Carlos Mantilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceoaliongroo/reduxing/issues"
+  },
+  "homepage": "https://github.com/ceoaliongroo/reduxing#readme",
+  "dependencies": {
+    "react-redux": "^2.1.1",
+    "redux": "^2.0.0"
+  },
+  "devDependencies": {
+    "redux-devtools": "^2.1.0"
+  }
+}
